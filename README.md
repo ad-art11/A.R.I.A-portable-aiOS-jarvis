@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/screenshots/main.png" alt="A.R.I.A. main screen: the HUD core, the chat and the workspace window" width="100%">
+  <img src="main.png" alt="A.R.I.A. main screen: the HUD core, the chat and the workspace window" width="100%">
 </p>
 
 <h1 align="center">A.R.I.A.</h1>
@@ -28,9 +28,9 @@ Runs from a USB drive on Windows, macOS and Linux.</p>
 
 | | |
 |---|---|
-| <img src="docs/screenshots/terminal.png" alt="The workspace with a real terminal"> | <img src="docs/screenshots/blueprint.png" alt="Blueprint: the map of a web app"> |
+| <img src="terminal.png" alt="The workspace with a real terminal"> | <img src="blueprint.png" alt="Blueprint: the map of a web app"> |
 | **A real terminal** — PowerShell, zsh or bash, right in the workspace | **Blueprint** — plan an app, then build it part by part |
-| <img src="docs/screenshots/settings.png" alt="Settings: themes and appearance"> | <img src="docs/screenshots/support-me.png" alt="Support me: buy the author a coffee"> |
+| <img src="settings.png" alt="Settings: themes and appearance"> | <img src="support-me.png" alt="Support me: buy the author a coffee"> |
 | **12 themes, 6 core styles** — and tidy, foldable settings | **Support me** — scan the QR code or open Ko-fi in your browser |
 
 ## Install on a USB drive
